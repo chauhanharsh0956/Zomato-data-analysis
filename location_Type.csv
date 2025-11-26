@@ -1,0 +1,232 @@
+location,Type,name
+BTM,Buffet,9
+BTM,Cafes,44
+BTM,Delivery,1367
+BTM,Desserts,105
+BTM,Dine-out,821
+BTM,Drinks & nightlife,8
+BTM,Pubs and bars,10
+Banashankari,Buffet,5
+Banashankari,Cafes,24
+Banashankari,Delivery,233
+Banashankari,Desserts,46
+Banashankari,Dine-out,237
+Banashankari,Drinks & nightlife,7
+Banaswadi,Cafes,12
+Banaswadi,Delivery,150
+Banaswadi,Desserts,18
+Banaswadi,Dine-out,199
+Banaswadi,Drinks & nightlife,3
+Banaswadi,Pubs and bars,1
+Bannerghatta Road,Buffet,6
+Bannerghatta Road,Cafes,25
+Bannerghatta Road,Delivery,467
+Bannerghatta Road,Desserts,91
+Bannerghatta Road,Dine-out,367
+Bannerghatta Road,Drinks & nightlife,6
+Bannerghatta Road,Pubs and bars,1
+Basavanagudi,Buffet,2
+Basavanagudi,Cafes,8
+Basavanagudi,Delivery,187
+Basavanagudi,Desserts,41
+Basavanagudi,Dine-out,196
+Basavanagudi,Drinks & nightlife,1
+Bellandur,Buffet,18
+Bellandur,Cafes,31
+Bellandur,Delivery,476
+Bellandur,Desserts,64
+Bellandur,Dine-out,398
+Bellandur,Drinks & nightlife,13
+Bellandur,Pubs and bars,12
+Brigade Road,Buffet,13
+Brigade Road,Cafes,21
+Brigade Road,Delivery,222
+Brigade Road,Desserts,45
+Brigade Road,Dine-out,231
+Brigade Road,Drinks & nightlife,21
+Brigade Road,Pubs and bars,10
+Brookefield,Buffet,3
+Brookefield,Cafes,15
+Brookefield,Delivery,275
+Brookefield,Desserts,37
+Brookefield,Dine-out,206
+Brookefield,Drinks & nightlife,2
+Domlur,Buffet,5
+Domlur,Cafes,12
+Domlur,Delivery,161
+Domlur,Desserts,24
+Domlur,Dine-out,89
+Domlur,Drinks & nightlife,8
+Domlur,Pubs and bars,5
+Electronic City,Buffet,14
+Electronic City,Cafes,19
+Electronic City,Delivery,517
+Electronic City,Desserts,69
+Electronic City,Dine-out,469
+Electronic City,Drinks & nightlife,16
+Electronic City,Pubs and bars,15
+Frazer Town,Buffet,1
+Frazer Town,Cafes,10
+Frazer Town,Delivery,247
+Frazer Town,Desserts,43
+Frazer Town,Dine-out,131
+Frazer Town,Drinks & nightlife,2
+Frazer Town,Pubs and bars,2
+HSR,Buffet,11
+HSR,Cafes,31
+HSR,Delivery,1003
+HSR,Desserts,102
+HSR,Dine-out,446
+HSR,Drinks & nightlife,5
+HSR,Pubs and bars,8
+Indiranagar,Buffet,20
+Indiranagar,Cafes,74
+Indiranagar,Delivery,717
+Indiranagar,Desserts,116
+Indiranagar,Dine-out,426
+Indiranagar,Drinks & nightlife,43
+Indiranagar,Pubs and bars,41
+JP Nagar,Buffet,19
+JP Nagar,Cafes,38
+JP Nagar,Delivery,597
+JP Nagar,Desserts,100
+JP Nagar,Dine-out,482
+JP Nagar,Drinks & nightlife,22
+JP Nagar,Pubs and bars,5
+Jayanagar,Buffet,15
+Jayanagar,Cafes,42
+Jayanagar,Delivery,508
+Jayanagar,Desserts,113
+Jayanagar,Dine-out,436
+Jayanagar,Drinks & nightlife,9
+Kalyan Nagar,Buffet,8
+Kalyan Nagar,Cafes,20
+Kalyan Nagar,Delivery,173
+Kalyan Nagar,Desserts,43
+Kalyan Nagar,Dine-out,257
+Kalyan Nagar,Drinks & nightlife,11
+Kammanahalli,Buffet,2
+Kammanahalli,Cafes,12
+Kammanahalli,Delivery,153
+Kammanahalli,Desserts,17
+Kammanahalli,Dine-out,208
+Kammanahalli,Drinks & nightlife,2
+Koramangala 1st Block,Buffet,3
+Koramangala 1st Block,Cafes,10
+Koramangala 1st Block,Delivery,298
+Koramangala 1st Block,Desserts,30
+Koramangala 1st Block,Dine-out,145
+Koramangala 1st Block,Drinks & nightlife,4
+Koramangala 1st Block,Pubs and bars,8
+Koramangala 4th Block,Buffet,10
+Koramangala 4th Block,Cafes,28
+Koramangala 4th Block,Delivery,210
+Koramangala 4th Block,Desserts,32
+Koramangala 4th Block,Dine-out,118
+Koramangala 4th Block,Drinks & nightlife,30
+Koramangala 4th Block,Pubs and bars,19
+Koramangala 5th Block,Buffet,29
+Koramangala 5th Block,Cafes,76
+Koramangala 5th Block,Delivery,502
+Koramangala 5th Block,Desserts,105
+Koramangala 5th Block,Dine-out,388
+Koramangala 5th Block,Drinks & nightlife,30
+Koramangala 5th Block,Pubs and bars,23
+Koramangala 6th Block,Buffet,11
+Koramangala 6th Block,Cafes,24
+Koramangala 6th Block,Delivery,245
+Koramangala 6th Block,Desserts,40
+Koramangala 6th Block,Dine-out,152
+Koramangala 6th Block,Drinks & nightlife,17
+Koramangala 6th Block,Pubs and bars,16
+Koramangala 7th Block,Buffet,5
+Koramangala 7th Block,Cafes,30
+Koramangala 7th Block,Delivery,220
+Koramangala 7th Block,Desserts,69
+Koramangala 7th Block,Dine-out,178
+Koramangala 7th Block,Drinks & nightlife,9
+Koramangala 7th Block,Pubs and bars,14
+MG Road,Buffet,23
+MG Road,Cafes,33
+MG Road,Delivery,106
+MG Road,Desserts,31
+MG Road,Dine-out,158
+MG Road,Drinks & nightlife,25
+MG Road,Pubs and bars,21
+Malleshwaram,Buffet,3
+Malleshwaram,Cafes,24
+Malleshwaram,Delivery,177
+Malleshwaram,Desserts,62
+Malleshwaram,Dine-out,190
+Malleshwaram,Drinks & nightlife,11
+Malleshwaram,Pubs and bars,7
+Marathahalli,Buffet,20
+Marathahalli,Cafes,26
+Marathahalli,Delivery,818
+Marathahalli,Desserts,91
+Marathahalli,Dine-out,530
+Marathahalli,Drinks & nightlife,9
+Marathahalli,Pubs and bars,1
+New BEL Road,Buffet,2
+New BEL Road,Cafes,24
+New BEL Road,Delivery,256
+New BEL Road,Desserts,30
+New BEL Road,Dine-out,198
+New BEL Road,Drinks & nightlife,4
+New BEL Road,Pubs and bars,4
+Old Airport Road,Buffet,8
+Old Airport Road,Cafes,5
+Old Airport Road,Delivery,164
+Old Airport Road,Desserts,30
+Old Airport Road,Dine-out,142
+Old Airport Road,Drinks & nightlife,6
+Old Airport Road,Pubs and bars,5
+Rajajinagar,Buffet,9
+Rajajinagar,Cafes,4
+Rajajinagar,Delivery,188
+Rajajinagar,Desserts,44
+Rajajinagar,Dine-out,179
+Rajajinagar,Drinks & nightlife,1
+Rajajinagar,Pubs and bars,4
+Residency Road,Buffet,14
+Residency Road,Cafes,19
+Residency Road,Delivery,91
+Residency Road,Desserts,28
+Residency Road,Dine-out,143
+Residency Road,Drinks & nightlife,23
+Residency Road,Pubs and bars,14
+Richmond Road,Buffet,27
+Richmond Road,Cafes,7
+Richmond Road,Delivery,101
+Richmond Road,Desserts,30
+Richmond Road,Dine-out,141
+Richmond Road,Drinks & nightlife,6
+Richmond Road,Pubs and bars,6
+Sarjapur Road,Buffet,10
+Sarjapur Road,Cafes,17
+Sarjapur Road,Delivery,429
+Sarjapur Road,Desserts,76
+Sarjapur Road,Dine-out,262
+Sarjapur Road,Drinks & nightlife,8
+Sarjapur Road,Pubs and bars,10
+Ulsoor,Buffet,8
+Ulsoor,Cafes,21
+Ulsoor,Delivery,195
+Ulsoor,Desserts,25
+Ulsoor,Dine-out,183
+Ulsoor,Drinks & nightlife,10
+Ulsoor,Pubs and bars,13
+Whitefield,Buffet,17
+Whitefield,Cafes,37
+Whitefield,Delivery,855
+Whitefield,Desserts,113
+Whitefield,Dine-out,635
+Whitefield,Drinks & nightlife,22
+Whitefield,Pubs and bars,17
+others,Buffet,75
+others,Cafes,153
+others,Delivery,2360
+others,Desserts,322
+others,Dine-out,1797
+others,Drinks & nightlife,112
+others,Pubs and bars,82
